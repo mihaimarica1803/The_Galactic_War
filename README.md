@@ -4,8 +4,7 @@ Marica Mihai
 312CA
 
 
-	Am început problema prin a declara variabilele, a le citi și a le aloca
-dinamic pe cele necesare.
+	Am început problema prin a declara variabilele, a le citi și a le aloca dinamic pe cele necesare.
 
 	Task 1
 
